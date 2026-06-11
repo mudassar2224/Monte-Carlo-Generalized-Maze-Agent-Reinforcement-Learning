@@ -16,6 +16,13 @@
 
 > **First-Visit Monte Carlo Control** agent that learns a generalised navigation policy across thousands of randomly generated mazes — solving obstacle layouts it has **never seen during training**.
 
+<img width="939" height="567" alt="image" src="https://github.com/user-attachments/assets/d31fca8d-fdca-49b3-a2e2-66889d7c253a" />
+<img width="795" height="459" alt="image" src="https://github.com/user-attachments/assets/f754adc0-a7d8-4c31-98a8-9ac282665e1d" />
+<img width="844" height="464" alt="image" src="https://github.com/user-attachments/assets/588b4741-8375-4c82-98fd-355063ed542e" />
+<img width="1079" height="568" alt="image" src="https://github.com/user-attachments/assets/44d2c933-c49e-4366-aa39-ffa928d03ffc" />
+
+
+
 ---
 
 ## 📌 The Core Challenge
